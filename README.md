@@ -1,7 +1,7 @@
 # OOP Design, Encapsulation & Builder Pattern
 
 ## Student
-- Name: <MohmandMohamed Ibrahim Fathy>
+- Name: MohmandMohamed Ibrahim Fathy
 
 ## Assignment Parts
 - Part 1 — Procedural C++ to Object-Oriented C#
